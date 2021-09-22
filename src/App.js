@@ -7,6 +7,7 @@ import Modal from '@material-ui/core/Modal';
 import {Button,Input} from '@material-ui/core';
 import ImageUpload from './ImageUpload';
 import InstagramEmbed from 'react-instagram-embed';
+/*initialise project with using react app*/
 function getModalStyle() {
   const top = 50 ;
   const left = 50 ;
